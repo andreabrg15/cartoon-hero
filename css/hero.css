@@ -3,6 +3,7 @@ body {
 	font-family: Helvetica, Arial, sans-serif;
 	font-size: 25px;
 	line-height: 35px;
+	background-color: #E7F8FF;
 }
 
 h1, h2 {
@@ -14,8 +15,8 @@ h1, h2 {
 header {
 	background-color: #153F82;
 	text-align: center;
-	padding-top: 10px;
-	padding-bottom: 50px;
+	padding-top: 30px;
+	padding-bottom: 70px;
 }
 
 header h1 {
@@ -24,8 +25,8 @@ header h1 {
 }
 
 header img {
-	border-radius: 145px;
-	width: 280px;
+	border-radius: 180px;
+	width: 350px;
 	border: 7px solid white;
 }
 
