@@ -1,0 +1,77 @@
+body {
+	margin: 0 ;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 25px;
+	line-height: 35px;
+}
+
+h1, h2 {
+	font-family: "Bangers", system-ui;
+	font-weight: 400;
+	font-style: normal;
+}
+
+header {
+	background-color: #153F82;
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 50px;
+}
+
+header h1 {
+	color: white;
+	font-size: 70px;
+}
+
+header img {
+	border-radius: 145px;
+	width: 280px;
+	border: 7px solid white;
+}
+
+main {
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 20px 20px;
+}
+
+main img {
+	width: 100%;
+}
+
+img.spidericon {
+	height: 30px;
+	width: 30px;
+}
+
+h2 {
+	font-size: 35px;
+	color: #B50000;
+	margin: 40px 0 10px;
+}
+
+a {
+	color: #B50000;
+}
+
+a:hover {
+	background-color: #483A94;
+	color: white;
+}
+
+footer {
+	background-color: #153F82;
+	text-align: center;
+	color: white;
+	padding: 40px;
+}
+
+footer p {
+	margin: 0;
+}
+
+p.caption {
+	color: #999999;
+	font-style: italic;
+	margin: 0;
+}
